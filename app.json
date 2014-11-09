@@ -1,0 +1,7 @@
+{
+  "name": "madhive",
+  "description": "madhive",
+  "repository": "https://github.com/madamowski/madhive",
+  "logo": "https://mad-hive.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
